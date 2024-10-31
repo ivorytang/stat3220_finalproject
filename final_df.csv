@@ -1,109 +1,109 @@
-"title","distributor","year","month","total_revenue","total_theaters","tconst","primaryTitle","runtimeMinutes","averageRating","numVotes","budget_x","director","genre","isHolidaySeason","season","isTopFiveDistributor","isTopTenDirector"
-"Avengers: Endgame","Walt Disney Studios Motion Pictures",2019,9,858373000,4662,"tt4154796","Avengers: Endgame",181,8.4,1305746,4e+08,"Anthony Russo","Action",0,3,1,0
-"The Lion King","Walt Disney Studios Motion Pictures",2019,12,543638043,4802,"tt6105098","The Lion King",118,6.8,272216,2.6e+08,"Jon Favreau","Adventure",1,4,1,0
-"Toy Story 4","Walt Disney Studios Motion Pictures",2019,12,434038008,4575,"tt1979376","Toy Story 4",100,7.7,288404,2e+08,"Josh Cooley","Adventure",1,4,1,0
-"Frozen II","Walt Disney Studios Motion Pictures",2019,12,430144682,4440,"tt4520988","Frozen II",103,6.8,200286,1.5e+08,"Chris Buck","Adventure",1,4,1,0
-"Captain Marvel","Walt Disney Studios Motion Pictures",2019,7,426829839,4310,"tt4154664","Captain Marvel",123,6.8,622754,1.75e+08,"Anna Boden","Action",0,3,1,0
-"Aladdin","Walt Disney Studios Motion Pictures",2019,10,355559216,4476,"tt6139732","Aladdin",128,6.9,295623,1.82e+08,"Guy Ritchie","Adventure",1,4,1,0
-"Joker","Warner Bros.",2019,12,333772511,4374,"tt7286456","Joker",122,8.4,1550940,5.5e+07,"Todd Phillips","Crime",1,4,1,1
-"It Chapter Two","Warner Bros.",2019,12,211593228,4570,"tt7349950","It Chapter Two",169,6.5,312515,7.9e+07,"Andy Muschietti","Drama",1,4,1,0
-"Jumanji: The Next Level","Sony Pictures Entertainment (SPE)",2019,12,192094536,4227,"tt7975244","Jumanji: The Next Level",123,6.7,293071,1.25e+08,"Jake Kasdan","Action",1,4,1,0
-"Us","Universal Pictures",2019,6,175005930,3743,"tt6857112","Us",116,6.8,352922,2e+07,"Jordan Peele","Horror",0,2,1,0
-"Fast & Furious Presents: Hobbs & Shaw","Universal Pictures",2019,10,173810100,4344,"tt6806448","Fast & Furious Presents: Hobbs & Shaw",137,6.5,241868,2e+08,"David Leitch","Action",1,4,1,0
-"John Wick: Chapter 3 - Parabellum","Lionsgate",2019,9,171015687,3850,"tt6146586","John Wick: Chapter 3 - Parabellum",130,7.4,438284,5.5e+07,"Chad Stahelski","Action",0,3,1,0
-"How to Train Your Dragon: The Hidden World","Universal Pictures",2019,6,158299505,4286,"tt2386490","How to Train Your Dragon: The Hidden World",104,7.4,156226,1.29e+08,"Dean DeBlois","Action",0,2,1,0
-"The Secret Life of Pets 2","Universal Pictures",2019,9,157332265,4564,"tt5113040","The Secret Life of Pets 2",86,6.4,70713,8e+07,"Chris Renaud","Adventure",0,3,1,0
-"Shazam!","Warner Bros.",2019,7,137046656,4306,"tt0448115","Shazam!",132,7,392131,8.5e+07,"David F. Sandberg","Action",0,3,1,0
-"Knives Out","Lionsgate",2019,12,115711579,3461,"tt8946378","Knives Out",130,7.9,792895,4e+07,"Rian Johnson","Comedy",1,4,1,1
-"Dumbo","Walt Disney Studios Motion Pictures",2019,8,114766307,4259,"tt3861390","Dumbo",112,6.3,84003,1.7e+08,"Tim Burton","Adventure",0,3,1,0
-"Maleficent: Mistress of Evil","Walt Disney Studios Motion Pictures",2019,12,113294737,3820,"tt4777008","Maleficent: Mistress of Evil",119,6.6,121801,1.85e+08,"Joachim Rønning","Adventure",1,4,1,0
-"Glass","Universal Pictures",2019,4,111035005,3844,"tt6823368","Glass",129,6.6,284060,2e+07,"M. Night Shyamalan","Drama",0,2,1,0
-"Godzilla: King of the Monsters","Warner Bros.",2019,8,110500138,4108,"tt3741700","Godzilla: King of the Monsters",132,6,214267,1.7e+08,"Michael Dougherty","Action",0,3,1,0
-"Ford v Ferrari","Twentieth Century Fox",2019,12,107196444,3746,"tt1950186","Ford v Ferrari",152,8.1,498364,97600000,"James Mangold","Action",1,4,0,1
-"Hustlers","STX Entertainment",2019,12,104960643,3525,"tt5503686","Hustlers",110,6.3,109069,20700000,"Lorene Scafaria","Comedy",1,4,0,0
-"The Addams Family","United Artists Releasing",2019,12,97185807,4107,"tt1620981","The Addams Family",86,5.8,45822,3e+07,"Greg Tiernan","Animation",1,4,0,0
-"Downton Abbey","Focus Features",2019,12,96854135,3548,"tt6398184","Downton Abbey",122,7.4,65035,2e+07,"Michael Engler","Drama",1,4,0,0
-"Alita: Battle Angel","Twentieth Century Fox",2019,5,85710210,3802,"tt0437086","Alita: Battle Angel",122,7.3,300119,1.7e+08,"Robert Rodriguez","Action",0,2,0,0
-"Good Boys","Universal Pictures",2019,10,83083070,3458,"tt6977338","Good Boys",90,6.7,83950,2e+07,"Gene Stupnitsky","Adventure",1,4,1,0
-"Men in Black: International","Sony Pictures Entertainment (SPE)",2019,10,80001807,4224,"tt2283336","Men in Black: International",114,5.6,150371,1.1e+08,"F. Gary Gray","Action",1,4,1,0
-"Annabelle Comes Home","Warner Bros.",2019,10,74152591,3613,"tt8350360","Annabelle Comes Home",106,5.9,90034,2.7e+07,"Gary Dauberman","Horror",1,4,1,0
-"Zombieland: Double Tap","Sony Pictures Entertainment (SPE)",2019,12,72930156,3468,"tt1560220","Zombieland: Double Tap",99,6.7,209309,4.8e+07,"Ruben Fleischer","Action",1,4,1,0
-"Angel Has Fallen","Lionsgate",2019,10,69030436,3336,"tt6189022","Angel Has Fallen",121,6.4,113394,4e+07,"Ric Roman Waugh","Action",1,4,1,0
-"Scary Stories to Tell in the Dark","Lionsgate",2019,10,68947075,3135,"tt3387520","Scary Stories to Tell in the Dark",108,6.2,87394,2.8e+07,"André Øvredal","Adventure",1,4,1,0
-"Terminator: Dark Fate","Paramount Pictures",2019,12,62253077,4086,"tt6450804","Terminator: Dark Fate",128,6.2,197459,1.85e+08,"Tim Miller","Action",1,4,0,0
-"Abominable","Universal Pictures",2019,12,60679265,4248,"tt6324278","Abominable",97,7,43466,7.5e+07,"Jill Culton","Adventure",1,4,1,0
-"Dora and the Lost City of Gold","Paramount Pictures",2019,10,60477943,3735,"tt7547410","Dora and the Lost City of Gold",102,6.1,35880,4.9e+07,"James Bobin","Action",1,4,0,0
-"Escape Room","Sony Pictures Entertainment (SPE)",2019,4,56981740,2717,"tt5886046","Escape Room",99,6.4,146501,9e+06,"Adam Robitel","Action",0,2,1,0
-"Midway","Lionsgate",2019,12,56279164,3242,"tt6924650","Midway",138,6.7,96734,1e+08,"Roland Emmerich","Action",1,4,1,0
-"Pet Sematary","Paramount Pictures",2019,5,54724696,3585,"tt0837563","Pet Sematary",100,5.7,100195,2.1e+07,"Kevin Kölsch","Horror",0,2,0,0
-"What Men Want","Paramount Pictures",2019,4,54611903,2912,"tt7634968","What Men Want",117,5.4,32608,2e+07,"Adam Shankman","Comedy",0,2,0,0
-"Ad Astra","Twentieth Century Fox",2019,12,50188370,3460,"tt2935510","Ad Astra",123,6.5,264808,8e+07,"James Gray","Adventure",1,4,0,0
-"Isn't It Romantic","Warner Bros.",2019,5,48791187,3444,"tt2452244","Isn't It Romantic",89,5.9,74559,92400000,"Todd Strauss-Schulson","Comedy",0,2,1,0
-"Five Feet Apart","Lionsgate",2019,5,45729221,2866,"tt6472976","Five Feet Apart",116,7.2,86685,7e+06,"Justin Baldoni","Drama",0,2,1,0
-"Ma","Universal Pictures",2019,7,45373120,2816,"tt7958736","Ma",99,5.6,60893,5e+06,"Tate Taylor","Horror",0,3,1,0
-"Wonder Park","Paramount Pictures",2019,5,45216793,3838,"tt6428676","Wonder Park",85,5.9,12895,1e+08,"Dylan Brown","Adventure",0,2,0,0
-"Rambo: Last Blood","Lionsgate",2019,11,44819352,3618,"tt1206885","Rambo: Last Blood",89,6.1,112233,5e+07,"Adrian Grunberg","Action",1,4,1,0
-"Playing with Fire","Paramount Pictures",2019,12,44151387,3185,"tt9134216","Playing with Fire",96,5.1,16819,29900000,"Andy Fickman","Comedy",1,4,0,0
-"A Dog's Way Home","Sony Pictures Entertainment (SPE)",2019,3,41952715,3090,"tt7616798","A Dog's Way Home",96,6.7,20600,1.8e+07,"Charles Martin Smith","Adventure",0,1,1,0
-"The Angry Birds Movie 2","Sony Pictures Entertainment (SPE)",2019,11,41667116,3869,"tt6095472","The Angry Birds Movie 2",97,6.4,36830,6.5e+07,"Thurop Van Orman","Action",1,4,1,0
-"Little","Universal Pictures",2019,6,40673960,2667,"tt8085790","Little",109,5.5,14813,2e+07,"Tina Gordon","Comedy",0,2,1,0
-"Crawl","Paramount Pictures",2019,9,39014193,3170,"tt8364368","Crawl",87,6.1,96449,1.7e+07,"Alexandre Aja","Action",0,3,0,0
-"The Intruder","Screen Gems",2019,6,35419122,2231,"tt6722030","The Intruder",102,5.6,19964,8e+06,"Deon Taylor","Horror",0,2,0,0
-"The Hustle","United Artists Releasing",2019,7,35417038,3077,"tt1298644","The Hustle",93,5.5,66918,2.1e+07,"Chris Addison","Comedy",0,3,0,0
-"Last Christmas","Universal Pictures",2019,12,35116450,3454,"tt8623904","Last Christmas",103,6.5,91660,3e+07,"Paul Feig","Comedy",1,4,1,0
-"Overcomer","Affirm Films",2019,12,34746945,2293,"tt8186318","Overcomer",119,6.7,5895,5e+06,"Alex Kendrick","Drama",1,4,0,0
-"Cold Pursuit","Lionsgate",2019,4,32138862,2630,"tt5719748","Cold Pursuit",119,6.2,79553,6e+07,"Hans Petter Moland","Action",0,2,1,0
-"Doctor Sleep","Warner Bros.",2019,12,31543097,3855,"tt5606664","Doctor Sleep",152,7.3,225125,4.5e+07,"Mike Flanagan","Drama",1,4,1,1
-"Long Shot","Lionsgate",2019,6,30316271,3230,"tt2139881","Long Shot",125,6.8,123867,4e+07,"Jonathan Levine","Comedy",0,2,1,0
-"Child's Play","United Artists Releasing",2019,8,29208403,3007,"tt8663516","Child's Play",90,5.7,57482,1e+07,"Lars Klevberg","Drama",0,3,0,0
-"Ready or Not","Fox Searchlight Pictures",2019,10,28714231,2998,"tt7798634","Ready or Not",95,6.9,193409,6e+06,"Matt Bettinelli-Olpin","Action",1,4,0,0
-"Happy Death Day 2U","Universal Pictures",2019,4,28051045,3212,"tt8155288","Happy Death Day 2U",100,6.2,88283,9e+06,"Christopher Landon","Comedy",0,2,1,0
-"21 Bridges","STX Entertainment",2019,12,27747269,2665,"tt8688634","21 Bridges",99,6.6,76300,3.3e+07,"Brian Kirk","Action",1,4,0,0
-"The Art of Racing in the Rain","Twentieth Century Fox",2019,10,26395642,2765,"tt1478839","The Art of Racing in the Rain",109,7.6,39812,1.8e+07,"Simon Curtis","Comedy",1,4,0,0
-"Countdown","STX Entertainment",2019,12,25594369,2675,"tt10039344","Countdown",90,5.4,47660,6500000,"Justin Dec","Horror",1,4,0,0
-"Fighting with My Family","Metro-Goldwyn-Mayer (MGM)",2019,5,22958886,2855,"tt6513120","Fighting with My Family",108,7,89209,1.1e+07,"Stephen Merchant","Biography",0,2,0,0
-"Booksmart","United Artists Releasing",2019,8,22680962,2518,"tt1489887","Booksmart",102,7.1,133996,6e+06,"Olivia Wilde","Comedy",0,3,0,0
-"A Dog's Journey","Universal Pictures",2019,7,22546590,3279,"tt8385474","A Dog's Journey",109,7.4,29759,20610000,"Gail Mancuso","Adventure",0,3,1,0
-"Stuber","Twentieth Century Fox",2019,8,22370452,3050,"tt7734218","Stuber",93,6.2,52263,1.6e+07,"Michael Dowse","Action",0,3,0,0
-"Parasite","Neon",2019,12,22328478,620,"tt6751668","Parasite",132,8.5,1000990,11363000,"Bong Joon Ho","Drama",1,4,0,1
-"47 Meters Down: Uncaged","Entertainment Studios Motion Pictures",2019,11,22260900,2883,"tt7329656","47 Meters Down: Uncaged",90,5,31635,1.2e+07,"Johannes Roberts","Adventure",1,4,0,0
-"Hellboy","Lionsgate",2019,5,21903748,3303,"tt2274648","Hellboy",120,5.3,102256,6e+07,"Neil Marshall","Action",0,2,1,0
-"Jojo Rabbit","Fox Searchlight Pictures",2019,12,21059726,995,"tt2584384","Jojo Rabbit",108,7.9,453037,1.4e+07,"Taika Waititi","Comedy",1,4,0,1
-"The Peanut Butter Falcon","Roadside Attractions",2019,12,20457151,1490,"tt4364194","The Peanut Butter Falcon",97,7.6,109184,6200000,"Tyler Nilson","Adventure",1,4,0,0
-"UglyDolls","STX Entertainment",2019,7,20150241,3652,"tt1946502","UglyDolls",87,5.1,8004,4.5e+07,"Kelly Asbury","Adventure",0,3,0,0
-"Cats","Universal Pictures",2019,12,19970095,3380,"tt5697572","Cats",110,2.8,56677,1e+08,"Tom Hooper","Comedy",1,4,1,0
-"Brightburn","Screen Gems",2019,6,17300439,2607,"tt7752126","Brightburn",90,6.1,110747,6e+06,"David Yarovesky","Drama",0,2,0,0
-"The Good Liar","Warner Bros.",2019,12,16973279,2454,"tt5563334","The Good Liar",109,6.7,49087,1e+07,"Bill Condon","Crime",1,4,1,0
-"The Kid Who Would Be King","Twentieth Century Fox",2019,4,16790790,3528,"tt6811018","The Kid Who Would Be King",120,6.1,19130,5.9e+07,"Joe Cornish","Action",0,2,0,0
-"Missing Link","United Artists Releasing",2019,7,16649539,3437,"tt6348138","Missing Link",93,6.7,29291,1e+08,"Chris Butler","Adventure",0,3,0,0
-"Miss Bala","Sony Pictures Entertainment (SPE)",2019,3,15006824,2203,"tt5941692","Miss Bala",104,5.8,13214,1.5e+07,"Catherine Hardwicke","Action",0,1,1,0
-"The Prodigy","Orion Pictures",2019,4,14856291,2530,"tt4504044","The Prodigy",92,5.9,29287,6e+06,"Nicholas McCarthy","Fantasy",0,2,0,0
-"The Kitchen","Warner Bros.",2019,10,12180032,2745,"tt5822564","The Kitchen",102,5.6,23270,3.8e+07,"Andrea Berloff","Action",1,4,1,0
-"After","Aviron Pictures",2019,6,12138565,2138,"tt4126476","After",105,5.3,68528,1.4e+07,"Jenny Gage","Drama",0,2,0,0
-"Blinded by the Light","Warner Bros.",2019,10,11901145,2307,"tt8266310","Blinded by the Light",118,6.9,27651,1.5e+07,"Gurinder Chadha","Comedy",1,4,1,0
-"Greta","Focus Features",2019,4,10519425,2417,"tt9477532","Greta",97,6.2,432,100600000,"Armando Praça","Drama",0,2,0,0
-"The Best of Enemies","STX Entertainment",2019,5,10205616,1705,"tt4807408","The Best of Enemies",133,7.3,20156,1e+07,"Robin Bissell","Biography",0,2,0,0
-"Motherless Brooklyn","Warner Bros.",2019,12,9277736,1342,"tt0385887","Motherless Brooklyn",144,6.8,63713,2.6e+07,"Edward Norton","Crime",1,4,1,0
-"No Manches Frida 2","Pantelion Films",2019,5,9270920,472,"tt9019352","No Manches Frida 2",102,4.3,1236,102200000,"Nacho G. Velilla","Comedy",0,2,0,0
-"Where'd You Go, Bernadette","United Artists Releasing",2019,10,9198356,2404,"tt2365580","Where'd You Go, Bernadette",109,6.5,26063,2e+07,"Richard Linklater","Comedy",1,4,0,0
-"Apollo 11","Neon",2019,7,9039891,588,"tt8760684","Apollo 11",93,8.1,27582,146780000,"Todd Douglas Miller","Documentary",0,3,0,0
-"Serenity","Aviron Pictures",2019,3,8543442,2561,"tt6476140","Serenity",106,5.4,46388,3.9e+07,"Steven Knight","Drama",0,1,0,0
-"The Dead Don't Die","Focus Features",2019,7,6563605,690,"tt8695030","The Dead Don't Die",104,5.5,88427,20700000,"Jim Jarmusch","Comedy",0,3,0,0
-"Jexi","Lionsgate",2019,11,6546159,2332,"tt9354944","Jexi",84,6.1,32047,5e+06,"Jon Lucas","Comedy",1,4,1,0
-"Captive State","Focus Features",2019,4,5958315,2549,"tt5968394","Captive State",109,6,58936,2.5e+07,"Rupert Wyatt","Action",0,2,0,0
-"The Wandering Earth","CMC Pictures",2019,4,5875487,129,"tt7605074","The Wandering Earth",125,5.9,37099,4.8e+07,"Frant Gwo","Action",0,2,0,0
-"Arctic Dogs","Entertainment Studios Motion Pictures",2019,12,5801249,2844,"tt4426464","Arctic Dogs",92,4.8,2321,5e+07,"Aaron Woodley","Adventure",1,4,0,0
-"The Goldfinch","Warner Bros.",2019,10,5332621,2542,"tt3864056","The Goldfinch",149,6.4,27715,4e+07,"John Crowley","Crime",1,4,1,0
-"Don't Let Go","-",2019,10,5215062,922,"tt6803212","Don't Let Go",103,6.4,13636,5e+06,"Jacob Estes","Drama",1,4,0,0
-"Tolkien","Fox Searchlight Pictures",2019,6,4535154,1501,"tt3361792","Tolkien",112,6.8,47925,2e+07,"Dome Karukoski","Biography",0,2,0,0
-"Promare","GKIDS",2019,12,2287950,701,"tt9116358","Promare",111,7,5401,59500000,"Hiroyuki Imaishi","Action",1,4,0,0
-"3 from Hell","Saban Films",2019,9,1809226,667,"tt8134742","3 from Hell",115,5.4,18688,3e+06,"Rob Zombie","Action",0,3,0,0
-"The Other Side of Heaven 2: Fire of Faith","ArtAffects Entertainment",2019,10,1806140,205,"tt8174450","The Other Side of Heaven 2: Fire of Faith",117,5.6,480,1.34e+08,"Mitch Davis","Adventure",1,4,0,0
-"The Aftermath","Fox Searchlight Pictures",2019,5,1618497,344,"tt5977276","The Aftermath",108,6.3,24275,41540000,"James Kent","Drama",0,2,0,0
-"Official Secrets","IFC Films",2019,11,699446,485,"tt5431890","Official Secrets",112,7.3,55970,134200000,"Gavin Hood","Biography",1,4,0,0
-"Junglee","Viva Pictures",2019,4,248695,70,"tt7463730","Junglee",115,5.5,2310,140800000,"Chuck Russell","Action",0,2,0,0
-"Pain and Glory","Sony Pictures Classics",2019,11,237000,266,"tt8291806","Pain and Glory",113,7.5,64184,10769016,"Pedro Almodóvar","Drama",1,4,0,0
-"Ne Zha","Well Go USA Entertainment",2019,8,149055,55,"tt10627720","Ne Zha",110,7.4,8719,2e+07,"Yu Yang","Action",0,3,0,0
-"Portrait of a Lady on Fire","Neon",2019,12,118603,2,"tt8613070","Portrait of a Lady on Fire",122,8.1,113853,5740000,"Céline Sciamma","Drama",1,4,0,0
-"White Snake","GKIDS",2019,12,34730,21,"tt9288776","White Snake",99,7,5556,11936735,"Amp Wong","Action",1,4,0,0
-"Extreme Job","CJ Entertainment",2019,1,3107,2,"tt9541602","Extreme Job",111,7,13527,8120000,"Lee Byeong-heon","Action",1,1,0,0
+"title","distributor","year","month","total_revenue","total_theaters","runtimeMinutes","averageRating","numVotes","budget_x","director","genre","isHolidaySeason","season","isTopFiveDistributor","isTopTenDirector"
+"Avengers: Endgame","Walt Disney Studios Motion Pictures",2019,9,858373000,4662,181,8.4,1305746,4e+08,"Anthony Russo","Action",0,3,1,0
+"The Lion King","Walt Disney Studios Motion Pictures",2019,12,543638043,4802,118,6.8,272216,2.6e+08,"Jon Favreau","Adventure",1,4,1,0
+"Toy Story 4","Walt Disney Studios Motion Pictures",2019,12,434038008,4575,100,7.7,288404,2e+08,"Josh Cooley","Adventure",1,4,1,0
+"Frozen II","Walt Disney Studios Motion Pictures",2019,12,430144682,4440,103,6.8,200286,1.5e+08,"Chris Buck","Adventure",1,4,1,0
+"Captain Marvel","Walt Disney Studios Motion Pictures",2019,7,426829839,4310,123,6.8,622754,1.75e+08,"Anna Boden","Action",0,3,1,0
+"Aladdin","Walt Disney Studios Motion Pictures",2019,10,355559216,4476,128,6.9,295623,1.82e+08,"Guy Ritchie","Adventure",1,4,1,0
+"Joker","Warner Bros.",2019,12,333772511,4374,122,8.4,1550940,5.5e+07,"Todd Phillips","Crime",1,4,1,1
+"It Chapter Two","Warner Bros.",2019,12,211593228,4570,169,6.5,312515,7.9e+07,"Andy Muschietti","Drama",1,4,1,0
+"Jumanji: The Next Level","Sony Pictures Entertainment (SPE)",2019,12,192094536,4227,123,6.7,293071,1.25e+08,"Jake Kasdan","Action",1,4,1,0
+"Us","Universal Pictures",2019,6,175005930,3743,116,6.8,352922,2e+07,"Jordan Peele","Horror",0,2,1,0
+"Fast & Furious Presents: Hobbs & Shaw","Universal Pictures",2019,10,173810100,4344,137,6.5,241868,2e+08,"David Leitch","Action",1,4,1,0
+"John Wick: Chapter 3 - Parabellum","Lionsgate",2019,9,171015687,3850,130,7.4,438284,5.5e+07,"Chad Stahelski","Action",0,3,1,0
+"How to Train Your Dragon: The Hidden World","Universal Pictures",2019,6,158299505,4286,104,7.4,156226,1.29e+08,"Dean DeBlois","Action",0,2,1,0
+"The Secret Life of Pets 2","Universal Pictures",2019,9,157332265,4564,86,6.4,70713,8e+07,"Chris Renaud","Adventure",0,3,1,0
+"Shazam!","Warner Bros.",2019,7,137046656,4306,132,7,392131,8.5e+07,"David F. Sandberg","Action",0,3,1,0
+"Knives Out","Lionsgate",2019,12,115711579,3461,130,7.9,792895,4e+07,"Rian Johnson","Comedy",1,4,1,1
+"Dumbo","Walt Disney Studios Motion Pictures",2019,8,114766307,4259,112,6.3,84003,1.7e+08,"Tim Burton","Adventure",0,3,1,0
+"Maleficent: Mistress of Evil","Walt Disney Studios Motion Pictures",2019,12,113294737,3820,119,6.6,121801,1.85e+08,"Joachim Rønning","Adventure",1,4,1,0
+"Glass","Universal Pictures",2019,4,111035005,3844,129,6.6,284060,2e+07,"M. Night Shyamalan","Drama",0,2,1,0
+"Godzilla: King of the Monsters","Warner Bros.",2019,8,110500138,4108,132,6,214267,1.7e+08,"Michael Dougherty","Action",0,3,1,0
+"Ford v Ferrari","Twentieth Century Fox",2019,12,107196444,3746,152,8.1,498364,97600000,"James Mangold","Action",1,4,0,1
+"Hustlers","STX Entertainment",2019,12,104960643,3525,110,6.3,109069,20700000,"Lorene Scafaria","Comedy",1,4,0,0
+"The Addams Family","United Artists Releasing",2019,12,97185807,4107,86,5.8,45822,3e+07,"Greg Tiernan","Animation",1,4,0,0
+"Downton Abbey","Focus Features",2019,12,96854135,3548,122,7.4,65035,2e+07,"Michael Engler","Drama",1,4,0,0
+"Alita: Battle Angel","Twentieth Century Fox",2019,5,85710210,3802,122,7.3,300119,1.7e+08,"Robert Rodriguez","Action",0,2,0,0
+"Good Boys","Universal Pictures",2019,10,83083070,3458,90,6.7,83950,2e+07,"Gene Stupnitsky","Adventure",1,4,1,0
+"Men in Black: International","Sony Pictures Entertainment (SPE)",2019,10,80001807,4224,114,5.6,150371,1.1e+08,"F. Gary Gray","Action",1,4,1,0
+"Annabelle Comes Home","Warner Bros.",2019,10,74152591,3613,106,5.9,90034,2.7e+07,"Gary Dauberman","Horror",1,4,1,0
+"Zombieland: Double Tap","Sony Pictures Entertainment (SPE)",2019,12,72930156,3468,99,6.7,209309,4.8e+07,"Ruben Fleischer","Action",1,4,1,0
+"Angel Has Fallen","Lionsgate",2019,10,69030436,3336,121,6.4,113394,4e+07,"Ric Roman Waugh","Action",1,4,1,0
+"Scary Stories to Tell in the Dark","Lionsgate",2019,10,68947075,3135,108,6.2,87394,2.8e+07,"André Øvredal","Adventure",1,4,1,0
+"Terminator: Dark Fate","Paramount Pictures",2019,12,62253077,4086,128,6.2,197459,1.85e+08,"Tim Miller","Action",1,4,0,0
+"Abominable","Universal Pictures",2019,12,60679265,4248,97,7,43466,7.5e+07,"Jill Culton","Adventure",1,4,1,0
+"Dora and the Lost City of Gold","Paramount Pictures",2019,10,60477943,3735,102,6.1,35880,4.9e+07,"James Bobin","Action",1,4,0,0
+"Escape Room","Sony Pictures Entertainment (SPE)",2019,4,56981740,2717,99,6.4,146501,9e+06,"Adam Robitel","Action",0,2,1,0
+"Midway","Lionsgate",2019,12,56279164,3242,138,6.7,96734,1e+08,"Roland Emmerich","Action",1,4,1,0
+"Pet Sematary","Paramount Pictures",2019,5,54724696,3585,100,5.7,100195,2.1e+07,"Kevin Kölsch","Horror",0,2,0,0
+"What Men Want","Paramount Pictures",2019,4,54611903,2912,117,5.4,32608,2e+07,"Adam Shankman","Comedy",0,2,0,0
+"Ad Astra","Twentieth Century Fox",2019,12,50188370,3460,123,6.5,264808,8e+07,"James Gray","Adventure",1,4,0,0
+"Isn't It Romantic","Warner Bros.",2019,5,48791187,3444,89,5.9,74559,92400000,"Todd Strauss-Schulson","Comedy",0,2,1,0
+"Five Feet Apart","Lionsgate",2019,5,45729221,2866,116,7.2,86685,7e+06,"Justin Baldoni","Drama",0,2,1,0
+"Ma","Universal Pictures",2019,7,45373120,2816,99,5.6,60893,5e+06,"Tate Taylor","Horror",0,3,1,0
+"Wonder Park","Paramount Pictures",2019,5,45216793,3838,85,5.9,12895,1e+08,"Dylan Brown","Adventure",0,2,0,0
+"Rambo: Last Blood","Lionsgate",2019,11,44819352,3618,89,6.1,112233,5e+07,"Adrian Grunberg","Action",1,4,1,0
+"Playing with Fire","Paramount Pictures",2019,12,44151387,3185,96,5.1,16819,29900000,"Andy Fickman","Comedy",1,4,0,0
+"A Dog's Way Home","Sony Pictures Entertainment (SPE)",2019,3,41952715,3090,96,6.7,20600,1.8e+07,"Charles Martin Smith","Adventure",0,1,1,0
+"The Angry Birds Movie 2","Sony Pictures Entertainment (SPE)",2019,11,41667116,3869,97,6.4,36830,6.5e+07,"Thurop Van Orman","Action",1,4,1,0
+"Little","Universal Pictures",2019,6,40673960,2667,109,5.5,14813,2e+07,"Tina Gordon","Comedy",0,2,1,0
+"Crawl","Paramount Pictures",2019,9,39014193,3170,87,6.1,96449,1.7e+07,"Alexandre Aja","Action",0,3,0,0
+"The Intruder","Screen Gems",2019,6,35419122,2231,102,5.6,19964,8e+06,"Deon Taylor","Horror",0,2,0,0
+"The Hustle","United Artists Releasing",2019,7,35417038,3077,93,5.5,66918,2.1e+07,"Chris Addison","Comedy",0,3,0,0
+"Last Christmas","Universal Pictures",2019,12,35116450,3454,103,6.5,91660,3e+07,"Paul Feig","Comedy",1,4,1,0
+"Overcomer","Affirm Films",2019,12,34746945,2293,119,6.7,5895,5e+06,"Alex Kendrick","Drama",1,4,0,0
+"Cold Pursuit","Lionsgate",2019,4,32138862,2630,119,6.2,79553,6e+07,"Hans Petter Moland","Action",0,2,1,0
+"Doctor Sleep","Warner Bros.",2019,12,31543097,3855,152,7.3,225125,4.5e+07,"Mike Flanagan","Drama",1,4,1,1
+"Long Shot","Lionsgate",2019,6,30316271,3230,125,6.8,123867,4e+07,"Jonathan Levine","Comedy",0,2,1,0
+"Child's Play","United Artists Releasing",2019,8,29208403,3007,90,5.7,57482,1e+07,"Lars Klevberg","Drama",0,3,0,0
+"Ready or Not","Fox Searchlight Pictures",2019,10,28714231,2998,95,6.9,193409,6e+06,"Matt Bettinelli-Olpin","Action",1,4,0,0
+"Happy Death Day 2U","Universal Pictures",2019,4,28051045,3212,100,6.2,88283,9e+06,"Christopher Landon","Comedy",0,2,1,0
+"21 Bridges","STX Entertainment",2019,12,27747269,2665,99,6.6,76300,3.3e+07,"Brian Kirk","Action",1,4,0,0
+"The Art of Racing in the Rain","Twentieth Century Fox",2019,10,26395642,2765,109,7.6,39812,1.8e+07,"Simon Curtis","Comedy",1,4,0,0
+"Countdown","STX Entertainment",2019,12,25594369,2675,90,5.4,47660,6500000,"Justin Dec","Horror",1,4,0,0
+"Fighting with My Family","Metro-Goldwyn-Mayer (MGM)",2019,5,22958886,2855,108,7,89209,1.1e+07,"Stephen Merchant","Biography",0,2,0,0
+"Booksmart","United Artists Releasing",2019,8,22680962,2518,102,7.1,133996,6e+06,"Olivia Wilde","Comedy",0,3,0,0
+"A Dog's Journey","Universal Pictures",2019,7,22546590,3279,109,7.4,29759,20610000,"Gail Mancuso","Adventure",0,3,1,0
+"Stuber","Twentieth Century Fox",2019,8,22370452,3050,93,6.2,52263,1.6e+07,"Michael Dowse","Action",0,3,0,0
+"Parasite","Neon",2019,12,22328478,620,132,8.5,1000990,11363000,"Bong Joon Ho","Drama",1,4,0,1
+"47 Meters Down: Uncaged","Entertainment Studios Motion Pictures",2019,11,22260900,2883,90,5,31635,1.2e+07,"Johannes Roberts","Adventure",1,4,0,0
+"Hellboy","Lionsgate",2019,5,21903748,3303,120,5.3,102256,6e+07,"Neil Marshall","Action",0,2,1,0
+"Jojo Rabbit","Fox Searchlight Pictures",2019,12,21059726,995,108,7.9,453037,1.4e+07,"Taika Waititi","Comedy",1,4,0,1
+"The Peanut Butter Falcon","Roadside Attractions",2019,12,20457151,1490,97,7.6,109184,6200000,"Tyler Nilson","Adventure",1,4,0,0
+"UglyDolls","STX Entertainment",2019,7,20150241,3652,87,5.1,8004,4.5e+07,"Kelly Asbury","Adventure",0,3,0,0
+"Cats","Universal Pictures",2019,12,19970095,3380,110,2.8,56677,1e+08,"Tom Hooper","Comedy",1,4,1,0
+"Brightburn","Screen Gems",2019,6,17300439,2607,90,6.1,110747,6e+06,"David Yarovesky","Drama",0,2,0,0
+"The Good Liar","Warner Bros.",2019,12,16973279,2454,109,6.7,49087,1e+07,"Bill Condon","Crime",1,4,1,0
+"The Kid Who Would Be King","Twentieth Century Fox",2019,4,16790790,3528,120,6.1,19130,5.9e+07,"Joe Cornish","Action",0,2,0,0
+"Missing Link","United Artists Releasing",2019,7,16649539,3437,93,6.7,29291,1e+08,"Chris Butler","Adventure",0,3,0,0
+"Miss Bala","Sony Pictures Entertainment (SPE)",2019,3,15006824,2203,104,5.8,13214,1.5e+07,"Catherine Hardwicke","Action",0,1,1,0
+"The Prodigy","Orion Pictures",2019,4,14856291,2530,92,5.9,29287,6e+06,"Nicholas McCarthy","Fantasy",0,2,0,0
+"The Kitchen","Warner Bros.",2019,10,12180032,2745,102,5.6,23270,3.8e+07,"Andrea Berloff","Action",1,4,1,0
+"After","Aviron Pictures",2019,6,12138565,2138,105,5.3,68528,1.4e+07,"Jenny Gage","Drama",0,2,0,0
+"Blinded by the Light","Warner Bros.",2019,10,11901145,2307,118,6.9,27651,1.5e+07,"Gurinder Chadha","Comedy",1,4,1,0
+"Greta","Focus Features",2019,4,10519425,2417,97,6.2,432,100600000,"Armando Praça","Drama",0,2,0,0
+"The Best of Enemies","STX Entertainment",2019,5,10205616,1705,133,7.3,20156,1e+07,"Robin Bissell","Biography",0,2,0,0
+"Motherless Brooklyn","Warner Bros.",2019,12,9277736,1342,144,6.8,63713,2.6e+07,"Edward Norton","Crime",1,4,1,0
+"No Manches Frida 2","Pantelion Films",2019,5,9270920,472,102,4.3,1236,102200000,"Nacho G. Velilla","Comedy",0,2,0,0
+"Where'd You Go, Bernadette","United Artists Releasing",2019,10,9198356,2404,109,6.5,26063,2e+07,"Richard Linklater","Comedy",1,4,0,0
+"Apollo 11","Neon",2019,7,9039891,588,93,8.1,27582,146780000,"Todd Douglas Miller","Documentary",0,3,0,0
+"Serenity","Aviron Pictures",2019,3,8543442,2561,106,5.4,46388,3.9e+07,"Steven Knight","Drama",0,1,0,0
+"The Dead Don't Die","Focus Features",2019,7,6563605,690,104,5.5,88427,20700000,"Jim Jarmusch","Comedy",0,3,0,0
+"Jexi","Lionsgate",2019,11,6546159,2332,84,6.1,32047,5e+06,"Jon Lucas","Comedy",1,4,1,0
+"Captive State","Focus Features",2019,4,5958315,2549,109,6,58936,2.5e+07,"Rupert Wyatt","Action",0,2,0,0
+"The Wandering Earth","CMC Pictures",2019,4,5875487,129,125,5.9,37099,4.8e+07,"Frant Gwo","Action",0,2,0,0
+"Arctic Dogs","Entertainment Studios Motion Pictures",2019,12,5801249,2844,92,4.8,2321,5e+07,"Aaron Woodley","Adventure",1,4,0,0
+"The Goldfinch","Warner Bros.",2019,10,5332621,2542,149,6.4,27715,4e+07,"John Crowley","Crime",1,4,1,0
+"Don't Let Go","-",2019,10,5215062,922,103,6.4,13636,5e+06,"Jacob Estes","Drama",1,4,0,0
+"Tolkien","Fox Searchlight Pictures",2019,6,4535154,1501,112,6.8,47925,2e+07,"Dome Karukoski","Biography",0,2,0,0
+"Promare","GKIDS",2019,12,2287950,701,111,7,5401,59500000,"Hiroyuki Imaishi","Action",1,4,0,0
+"3 from Hell","Saban Films",2019,9,1809226,667,115,5.4,18688,3e+06,"Rob Zombie","Action",0,3,0,0
+"The Other Side of Heaven 2: Fire of Faith","ArtAffects Entertainment",2019,10,1806140,205,117,5.6,480,1.34e+08,"Mitch Davis","Adventure",1,4,0,0
+"The Aftermath","Fox Searchlight Pictures",2019,5,1618497,344,108,6.3,24275,41540000,"James Kent","Drama",0,2,0,0
+"Official Secrets","IFC Films",2019,11,699446,485,112,7.3,55970,134200000,"Gavin Hood","Biography",1,4,0,0
+"Junglee","Viva Pictures",2019,4,248695,70,115,5.5,2310,140800000,"Chuck Russell","Action",0,2,0,0
+"Pain and Glory","Sony Pictures Classics",2019,11,237000,266,113,7.5,64184,10769016,"Pedro Almodóvar","Drama",1,4,0,0
+"Ne Zha","Well Go USA Entertainment",2019,8,149055,55,110,7.4,8719,2e+07,"Yu Yang","Action",0,3,0,0
+"Portrait of a Lady on Fire","Neon",2019,12,118603,2,122,8.1,113853,5740000,"Céline Sciamma","Drama",1,4,0,0
+"White Snake","GKIDS",2019,12,34730,21,99,7,5556,11936735,"Amp Wong","Action",1,4,0,0
+"Extreme Job","CJ Entertainment",2019,1,3107,2,111,7,13527,8120000,"Lee Byeong-heon","Action",1,1,0,0
